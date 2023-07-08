@@ -1,5 +1,6 @@
-# A Markov Chain word generator using Estonian literature as corpus.
+# A Markov Chain based new word generator for Estonian
 
-The idea was to ingest estonian literature to the algorithm so it would generate brand new estonian words.
-
-The results were mostly garbage but somewhat amusing.
+* Ingest public domain Estonian literature to a Markov Chain based model.
+* The model predicts the next most likely letter and generates new words.
+* The aim was to generate brand new estonian words.
+* As expected the results were mostly nonsensical but amusing :D
